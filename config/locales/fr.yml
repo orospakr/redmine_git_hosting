@@ -1,4 +1,4 @@
-'en':
+'fr':
   label_all_git: Automatically Initialize Git Repositories For New Projects
   label_delete_git_repositories: Delete Git Repository When Project is Deleted
   label_git_server: Gitolite Server Domain
@@ -35,7 +35,8 @@
   label_hook_installed: Hook installed
 
   label_public_keys: Public keys
-  label_public_key_new: New public key
+  label_no_public_keys: Pas de clé publique définie
+  label_public_key_new: Nouvelle clé publique
   field_public_key: Key
   notice_public_key_updated: Public key was successfully updated.
   notice_public_key_added: Public key was successfully added.

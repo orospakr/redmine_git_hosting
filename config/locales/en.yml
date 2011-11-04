@@ -35,6 +35,7 @@
   label_hook_installed: Hook installed
 
   label_public_keys: Public keys
+  label_no_public_keys: No public keys defined
   label_public_key_new: New public key
   field_public_key: Key
   notice_public_key_updated: Public key was successfully updated.
